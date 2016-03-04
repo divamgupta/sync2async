@@ -1,0 +1,24 @@
+{
+  "name": "sync2async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sync2async.js",
+  "dependencies": {
+    "esprima": "^2.2.0",
+    "escodegen": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divamgupta/sync2async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divamgupta/sync2async/issues"
+  },
+  "homepage": "https://github.com/divamgupta/sync2async#readme"
+}
